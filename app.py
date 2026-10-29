@@ -11,13 +11,6 @@ QUESTIONS_DB = {
         "options": ["أوروبا", "أمريكا الشمالية", "آسيا", "أستراليا"],
         "answer": "آسيا"
     },
-  {
-        "id": 2,
-        "type": "true/false",
-        "prompt": "تبلغ مساحة قارة إفريقيا حوالي 30.4 مليون كم٢.",
-        "options": ["صح", "خطأ"],
-        "answer": "صح"
-    },
    {
         "id": 3,
         "type": "multiple choice",
